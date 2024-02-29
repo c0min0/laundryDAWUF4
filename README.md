@@ -1,4 +1,4 @@
-# Víctor Comino2
+# Víctor Comino 2
 # laundry management system
 
 ---
