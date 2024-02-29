@@ -1,3 +1,6 @@
+=======
+# Víctor Comino 2
+>>>>>>> develop
 # laundry management system
 
 ---
