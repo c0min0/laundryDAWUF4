@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-=======
+
 # Víctor Comino 2
->>>>>>> develop
-=======
-# Víctor Comino 2
->>>>>>> develop
 # laundry management system
 
 ---
