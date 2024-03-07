@@ -1,5 +1,5 @@
 # Víctor Comino PROPIETARI
-# laundry management system Ayman
+# laundry management system Ayman i Victor
 
 ---
 ## Using Tech:
