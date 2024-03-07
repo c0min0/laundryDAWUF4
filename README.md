@@ -1,4 +1,4 @@
-# Víctor Comino ///////
+# Víctor Comino PROPIETARI
 # laundry management system
 
 ---
